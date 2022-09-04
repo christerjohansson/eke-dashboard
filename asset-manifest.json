@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eken-dashboard/static/css/main.53b0a713.chunk.css",
+    "main.js": "/eken-dashboard/static/js/main.48523733.chunk.js",
+    "main.js.map": "/eken-dashboard/static/js/main.48523733.chunk.js.map",
+    "runtime-main.js": "/eken-dashboard/static/js/runtime-main.88b08cea.js",
+    "runtime-main.js.map": "/eken-dashboard/static/js/runtime-main.88b08cea.js.map",
+    "static/js/2.62e1dc56.chunk.js": "/eken-dashboard/static/js/2.62e1dc56.chunk.js",
+    "static/js/2.62e1dc56.chunk.js.map": "/eken-dashboard/static/js/2.62e1dc56.chunk.js.map",
+    "static/js/3.0ca2b18f.chunk.js": "/eken-dashboard/static/js/3.0ca2b18f.chunk.js",
+    "static/js/3.0ca2b18f.chunk.js.map": "/eken-dashboard/static/js/3.0ca2b18f.chunk.js.map",
+    "index.html": "/eken-dashboard/index.html",
+    "static/css/main.53b0a713.chunk.css.map": "/eken-dashboard/static/css/main.53b0a713.chunk.css.map",
+    "static/js/2.62e1dc56.chunk.js.LICENSE.txt": "/eken-dashboard/static/js/2.62e1dc56.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/eken-dashboard/static/media/boxicons.cbd149c5.ttf",
+    "static/media/logo.85e85e3e.png": "/eken-dashboard/static/media/logo.85e85e3e.png",
+    "static/media/thumbnail.28e26776.jpg": "/eken-dashboard/static/media/thumbnail.28e26776.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b08cea.js",
+    "static/js/2.62e1dc56.chunk.js",
+    "static/css/main.53b0a713.chunk.css",
+    "static/js/main.48523733.chunk.js"
+  ]
+}
